@@ -1,4 +1,4 @@
-package com.solvd.eduncan.tests;
+package tests;
 
 import com.solvd.eduncan.methods.reqres.DeleteUserMethod;
 import com.solvd.eduncan.methods.reqres.GetUserMethod;

@@ -1,4 +1,4 @@
-package com.solvd.eduncan.tests;
+package tests;
 
 import com.solvd.eduncan.methods.jsonplaceholder.*;
 import com.zebrunner.carina.api.http.HttpResponseStatusType;
