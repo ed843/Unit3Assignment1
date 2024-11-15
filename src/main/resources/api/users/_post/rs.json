@@ -1,0 +1,6 @@
+{
+  "id": "type:String",
+  "name": "${name}",
+  "job": "${job}",
+  "createdAt": "type:String"
+}
